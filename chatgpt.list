@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 # log
 DOMAIN-SUFFIX,sentry.io
+# Add poe.com
+DOMAIN-SUFFIX,poe.com
+# Add bard.google.com
+DOMAIN-SUFFIX,bard.google.com
