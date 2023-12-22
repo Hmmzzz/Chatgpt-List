@@ -1,4 +1,4 @@
-Bard:
+payload:
   - 'DOMAIN-SUFFIX,google.com'
   - 'DOMAIN-SUFFIX,apis.google.com'
   - 'DOMAIN-SUFFIX,in.appcenter.ms'
