@@ -5,4 +5,3 @@ payload:
   - 'DOMAIN-SUFFIX,ogs.google.com'
   - 'DOMAIN-SUFFIX,www.google.com'
   - 'DOMAIN-KEYWORD,claude'
-  - 'DOMAIN-SUFFIX,huggingface.co'
