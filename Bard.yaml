@@ -1,0 +1,8 @@
+  - DOMAIN-SUFFIX,bard.google.com,ChatGPT
+  - DOMAIN-SUFFIX,google.com,ChatGPT
+  - DOMAIN-SUFFIX,apis.google.com,ChatGPT
+  - DOMAIN-SUFFIX,bard.google.com,ChatGPT
+  - DOMAIN-SUFFIX,in.appcenter.ms,ChatGPT
+  - DOMAIN-SUFFIX,ogs.google.com,ChatGPT
+  - DOMAIN-SUFFIX,www.google.com,ChatGPT
+  - DOMAIN-KEYWORD,claude,ChatGPT
